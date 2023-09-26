@@ -1,5 +1,8 @@
 _repo: The-coat-without-a-seam-and-other-poems_71508
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71508-h/images/cover.jpg
 creator:
   author:
     agent_name: Cone, Helen Gray
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3090
     wikipedia: https://en.wikipedia.org/wiki/Helen_Gray_Cone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71508#The-coat-without-a-seam-and-other-poems
 gutenberg_issued: '2023-08-28'
 identifiers:
   gutenberg: '71508'
